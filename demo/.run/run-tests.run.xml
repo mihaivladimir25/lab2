@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Run All Tests" type="JUnit" factoryName="JUnit">
+        <option name="TEST_OBJECT" value="allTests" />
+        <module name="demo.main" />
+        <shortenClasspath name="NONE" />
+        <method v="2" />
+    </configuration>
+</component>

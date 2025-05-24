@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="demo" />
+    <shortenClasspath name="NONE" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.FitnessTrackerApplication" />
+    <method v="2" />
+  </configuration>
+</component>
